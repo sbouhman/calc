@@ -1,0 +1,15 @@
+{
+  "name": "calculatorApp",
+  "version": "0.0.1",
+  "description": "Calculator App using http/cli",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shmuel Bouhman",
+  "license": "free",
+  "dependencies": {
+    "express": "^4.12.4",
+    "is-number": "^7.0.0"
+  }
+}
